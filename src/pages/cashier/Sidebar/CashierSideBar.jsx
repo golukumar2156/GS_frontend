@@ -53,8 +53,8 @@ const CashierSideBar = ({ navItems, onClose }) => {
           />
         </svg>
       </Button>
-      <div className="flex items-center justify-center p-2 mb-6">
-        <h1 className="text-xl font-bold text-sidebar-foreground">OrderCapture System</h1>
+      <div className="flex items-center justify-center p-2 mr-4 mb-6">
+        <h1 className="text-xl font-bold text-sidebar-foreground ">OrderCapture System</h1>
       </div>
 
       <nav className="space-y-2 flex-1">
