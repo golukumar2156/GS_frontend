@@ -210,7 +210,7 @@ const Onboarding = () => {
               {/* Title */}
               <h1 className="text-4xl font-bold mb-6 leading-tight">
                 Welcome to Your
-                <span className="block text-yellow-300">GS_Mart System</span>
+                <span className="block text-yellow-300">OrderCapture System</span>
               </h1>
               
               {/* Description */}
